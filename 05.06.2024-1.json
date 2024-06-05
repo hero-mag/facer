@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Bentley",
+    "age": 54,
+    "address": {
+        "street": "Dickson Rapids",
+        "city": "Jessicaside",
+        "state": "Colorado",
+        "zip": "40552"
+    },
+    "contact": {
+        "phone": "9335596366",
+        "servicePhone": "800685158"
+    },
+    "birthday": "1971-15-11",
+    "ip": "97.142.68.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Light you professional can avoid. Own what finally ability.\nVery challenge good trip perhaps. Similar year news example. Analysis between design role these tonight.",
+        "bio": "Standard sure list walk identify several. Key summer miss market. Deal suddenly many carry science interest although."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
