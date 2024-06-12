@@ -1,0 +1,25 @@
+{
+    "name": "Michael Jones",
+    "age": 31,
+    "address": {
+        "street": "Linda Brooks",
+        "city": "Millerview",
+        "state": "New Jersey",
+        "zip": "38438"
+    },
+    "contact": {
+        "phone": "001-849-201-7386",
+        "servicePhone": "800734612"
+    },
+    "birthday": "1994-14-04",
+    "ip": "9.31.176.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Raise note draw itself support small music. Husband anyone show office. Season manage perhaps vote. Firm big final him design different difficult wait.",
+        "bio": "Summer maybe pull two despite learn challenge. Traditional expert specific simply. Answer light try everyone step huge they take."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
