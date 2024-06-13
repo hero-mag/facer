@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Warren",
+    "age": 4,
+    "address": {
+        "street": "Higgins Mountains",
+        "city": "West Kelseyfort",
+        "state": "Minnesota",
+        "zip": "49898"
+    },
+    "contact": {
+        "phone": "340-708-6630x799",
+        "servicePhone": "800457566"
+    },
+    "birthday": "2021-30-06",
+    "ip": "46.15.12.54",
+    "foo": "bar",
+    "profile": {
+        "about": "System type seem former kind truth. Country last heart according rate better ago before. Focus range about buy majority carry.",
+        "bio": "World friend particular finally.\nWish store positive more magazine drop. Hospital focus generation. Middle music instead.\nStill yet until lead try clearly."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
