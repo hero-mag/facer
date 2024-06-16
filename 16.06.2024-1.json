@@ -1,0 +1,25 @@
+{
+    "name": "James Robinson",
+    "age": 31,
+    "address": {
+        "street": "Floyd Circle",
+        "city": "Chadville",
+        "state": "Mississippi",
+        "zip": "67833"
+    },
+    "contact": {
+        "phone": "(735)627-8716",
+        "servicePhone": "800291667"
+    },
+    "birthday": "1994-20-04",
+    "ip": "63.87.229.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Property they ground those. Beat majority drive more hair right. Remain peace clear fish area four. Radio keep keep subject.",
+        "bio": "High former heart nature behavior including entire Democrat. By morning hair notice hand fall.\nFew picture garden build pass. Success the apply we purpose. Ground history her type."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
