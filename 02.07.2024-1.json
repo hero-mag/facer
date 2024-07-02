@@ -1,0 +1,25 @@
+{
+    "name": "Michael Wilson",
+    "age": 72,
+    "address": {
+        "street": "Kyle Curve",
+        "city": "Brandontown",
+        "state": "Connecticut",
+        "zip": "36571"
+    },
+    "contact": {
+        "phone": "596.606.3603x82619",
+        "servicePhone": "800716698"
+    },
+    "birthday": "1953-22-09",
+    "ip": "223.9.202.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Why movement focus energy senior light.\nRead expect hit indicate. Allow reveal measure station point for wait candidate. So out buy couple today brother computer.",
+        "bio": "Improve face quickly choose force. Record reflect stand against important season. President almost down."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
