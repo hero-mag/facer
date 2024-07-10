@@ -1,0 +1,25 @@
+{
+    "name": "Trevor Smith",
+    "age": 62,
+    "address": {
+        "street": "Gina Creek",
+        "city": "Port Anthony",
+        "state": "Connecticut",
+        "zip": "97291"
+    },
+    "contact": {
+        "phone": "+1-375-331-7232",
+        "servicePhone": "800225908"
+    },
+    "birthday": "1963-18-12",
+    "ip": "194.78.73.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Section guess leave art show source cultural manager. Save some only apply speech involve he. Bit whole we small knowledge.",
+        "bio": "Poor this until until. Him home window better huge.\nQuestion there miss society college.\nLeg suggest professor throw. Common around candidate opportunity trip law.\nNational news travel similar."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
