@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Vasquez",
+    "age": 72,
+    "address": {
+        "street": "Joseph Manor",
+        "city": "Johnsonshire",
+        "state": "Michigan",
+        "zip": "70914"
+    },
+    "contact": {
+        "phone": "001-219-533-9246x99045",
+        "servicePhone": "800301878"
+    },
+    "birthday": "1953-08-09",
+    "ip": "148.247.100.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Pressure effect listen trouble close cost. Those important animal experience kind soldier along.",
+        "bio": "Between marriage national source state. Group impact history together decade bring wrong model. Speech ground which culture subject alone quickly."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
