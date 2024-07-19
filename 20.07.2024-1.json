@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Anderson",
+    "age": 45,
+    "address": {
+        "street": "Lam Lakes",
+        "city": "Westfort",
+        "state": "Louisiana",
+        "zip": "11858"
+    },
+    "contact": {
+        "phone": "(363)299-3438x99655",
+        "servicePhone": "800884040"
+    },
+    "birthday": "1980-06-03",
+    "ip": "76.215.16.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Lead director common school behavior. Morning current lot first meeting remember television.",
+        "bio": "Let bit respond else word policy. Address movie arrive us drive push.\nDescribe bag fear early occur need. System pass increase suddenly thing."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
