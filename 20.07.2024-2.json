@@ -1,0 +1,25 @@
+{
+    "name": "Gary Schultz",
+    "age": 1,
+    "address": {
+        "street": "Gibson Island",
+        "city": "Reynoldsfort",
+        "state": "Maryland",
+        "zip": "68016"
+    },
+    "contact": {
+        "phone": "001-314-846-4915x7405",
+        "servicePhone": "800270630"
+    },
+    "birthday": "2024-19-02",
+    "ip": "21.165.101.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Offer door provide wait series knowledge. Executive hear fact wall leg never.\nModern collection when take natural avoid leave. Particularly mention child now cut up.",
+        "bio": "American nothing successful speech whole nor government. Take offer task generation necessary ground. Trade direction point understand."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
