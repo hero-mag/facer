@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Olson",
+    "age": 65,
+    "address": {
+        "street": "Ryan Flats",
+        "city": "New Jasonville",
+        "state": "Wisconsin",
+        "zip": "72361"
+    },
+    "contact": {
+        "phone": "001-840-604-7319",
+        "servicePhone": "800258409"
+    },
+    "birthday": "1960-03-07",
+    "ip": "207.220.25.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Including law sort game study live. You watch each up bag language. Free pick third test church clear argue.",
+        "bio": "Green address several speech. Rock network worry consumer.\nIndividual recently travel finally. Third attorney claim relationship against consumer. Woman enjoy laugh between thousand suggest."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
