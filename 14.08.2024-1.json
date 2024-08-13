@@ -1,0 +1,25 @@
+{
+    "name": "Angela Richardson",
+    "age": 108,
+    "address": {
+        "street": "Wilcox Oval",
+        "city": "New Amandabury",
+        "state": "Montana",
+        "zip": "24390"
+    },
+    "contact": {
+        "phone": "001-568-856-7172x1883",
+        "servicePhone": "800769552"
+    },
+    "birthday": "1917-01-11",
+    "ip": "181.222.69.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Tax let relate technology. Adult debate Republican effect mean staff trade. Commercial knowledge prepare discussion.",
+        "bio": "Drive reveal sport popular point debate picture. Energy late design least debate condition beyond. Know spring stand."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
