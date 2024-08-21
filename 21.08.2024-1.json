@@ -1,0 +1,25 @@
+{
+    "name": "Christine Lopez",
+    "age": 30,
+    "address": {
+        "street": "Kathy Canyon",
+        "city": "Amandaside",
+        "state": "Connecticut",
+        "zip": "69425"
+    },
+    "contact": {
+        "phone": "(791)755-9482x77176",
+        "servicePhone": "800996237"
+    },
+    "birthday": "1995-28-10",
+    "ip": "223.205.251.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Good lose military line land meet decide design. Various author evening try spend suffer to anyone.\nJoin but assume do book top ask. Air then there big water building.",
+        "bio": "Under interest necessary claim rate.\nHave leave visit hot available take Democrat. Someone world easy idea Democrat provide safe. Once free detail world story still."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
