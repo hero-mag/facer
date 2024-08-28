@@ -1,0 +1,25 @@
+{
+    "name": "Brian Reyes",
+    "age": 75,
+    "address": {
+        "street": "Erica Crescent",
+        "city": "Kylestad",
+        "state": "Arkansas",
+        "zip": "91367"
+    },
+    "contact": {
+        "phone": "2257105619",
+        "servicePhone": "800931213"
+    },
+    "birthday": "1950-29-06",
+    "ip": "162.2.215.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Claim law official result particularly hair. Light fill tree machine.",
+        "bio": "Community moment do likely red. Agree front scene stock. Whom offer effect.\nReflect draw want middle live such whole. Defense feeling read health story. Wear security laugh fill seat network."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
