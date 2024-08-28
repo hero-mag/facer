@@ -1,0 +1,25 @@
+{
+    "name": "Miguel Villanueva",
+    "age": 17,
+    "address": {
+        "street": "Becker Fall",
+        "city": "East Robin",
+        "state": "Alaska",
+        "zip": "74455"
+    },
+    "contact": {
+        "phone": "512-574-0403x879",
+        "servicePhone": "800657101"
+    },
+    "birthday": "2008-26-06",
+    "ip": "34.67.237.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Situation democratic final will. White step truth just human guy. Young law face cause office how make must.",
+        "bio": "Wait explain four business house visit. Order national alone hit choice. On president politics member politics.\nInterview ground early."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
