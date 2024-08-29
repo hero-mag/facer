@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Schneider",
+    "age": 27,
+    "address": {
+        "street": "Emily Center",
+        "city": "East Terri",
+        "state": "Kentucky",
+        "zip": "40020"
+    },
+    "contact": {
+        "phone": "(550)636-0001x23457",
+        "servicePhone": "800388122"
+    },
+    "birthday": "1998-28-01",
+    "ip": "205.254.83.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Show enough me whose moment event.\nTown great environment leader. Enough prevent national wrong fight. Six part cut blue century while someone.",
+        "bio": "Media job model citizen behind. Fall if loss one major. Office nation raise speech explain building forward popular.\nCharge lawyer story today to. Future thus put."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
