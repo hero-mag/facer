@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Flynn",
+    "age": 69,
+    "address": {
+        "street": "Nicolas Harbor",
+        "city": "New Justinberg",
+        "state": "Kansas",
+        "zip": "30815"
+    },
+    "contact": {
+        "phone": "419.298.0827x5098",
+        "servicePhone": "800644273"
+    },
+    "birthday": "1956-18-02",
+    "ip": "169.255.188.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Approach analysis activity song. Whose budget poor various would. About poor population hear only. Performance through president alone special kid prevent.",
+        "bio": "Stock agent interesting. Environmental sing maintain large himself since agency. Audience western military partner society name shoulder."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
