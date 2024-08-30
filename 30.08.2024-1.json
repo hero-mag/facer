@@ -1,0 +1,25 @@
+{
+    "name": "Robert Gonzales Jr.",
+    "age": 33,
+    "address": {
+        "street": "White Manor",
+        "city": "South Robert",
+        "state": "Wisconsin",
+        "zip": "46451"
+    },
+    "contact": {
+        "phone": "001-985-792-5109x7569",
+        "servicePhone": "800804711"
+    },
+    "birthday": "1992-10-03",
+    "ip": "130.52.179.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Reality two argue expect her. Yard drug cause music power. Officer option serious. Much realize free couple.\nOnto fight team test at. Hard life cultural throw their.",
+        "bio": "Recently whole risk seek business. Stand deep down should site opportunity."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
