@@ -1,0 +1,25 @@
+{
+    "name": "Miguel Kidd",
+    "age": 6,
+    "address": {
+        "street": "Mcneil Square",
+        "city": "Mullenhaven",
+        "state": "New Mexico",
+        "zip": "65423"
+    },
+    "contact": {
+        "phone": "+1-643-894-5103x6392",
+        "servicePhone": "800612406"
+    },
+    "birthday": "2019-08-07",
+    "ip": "28.216.210.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Model professor themselves authority note light quite case. Part fight fast. Several kid author chair letter enter help source. Hear vote actually wall usually on program.",
+        "bio": "Fill remember property feeling way everything short. Mission stage such. Language camera voice member guess staff face.\nMusic foreign national cost. For measure month million law wife reason."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
