@@ -1,0 +1,25 @@
+{
+    "name": "Dennis Ramirez",
+    "age": 28,
+    "address": {
+        "street": "Sarah Rue",
+        "city": "Andrewberg",
+        "state": "Florida",
+        "zip": "15680"
+    },
+    "contact": {
+        "phone": "587.764.3001x36579",
+        "servicePhone": "800435549"
+    },
+    "birthday": "1997-10-12",
+    "ip": "111.49.41.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Local sit seat relate check. Speech white these bad others deal daughter total. Power protect main enter.\nCollection side too decide physical fill quite.",
+        "bio": "Design seat statement pass. Become actually director rather.\nIts store rich should prevent. Yeah nature ahead run per. Visit both network happen wonder."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
