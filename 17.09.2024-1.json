@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Fisher",
+    "age": 87,
+    "address": {
+        "street": "Steele Knoll",
+        "city": "Tatestad",
+        "state": "Illinois",
+        "zip": "38611"
+    },
+    "contact": {
+        "phone": "623.463.3984x3609",
+        "servicePhone": "800777788"
+    },
+    "birthday": "1938-08-03",
+    "ip": "33.109.224.154",
+    "foo": "bar",
+    "profile": {
+        "about": "What part compare none. Store generation world skin to accept mouth.\nAgo magazine agreement grow small. Program left now join. Represent administration country owner why yeah.",
+        "bio": "Across force lot according agree quickly. Table let become.\nDrive feeling movement win some. Gas institution sometimes hold appear."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
