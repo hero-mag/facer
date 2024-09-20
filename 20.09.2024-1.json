@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Fernandez",
+    "age": 89,
+    "address": {
+        "street": "Wilson Well",
+        "city": "Lake Kylefurt",
+        "state": "Maine",
+        "zip": "78579"
+    },
+    "contact": {
+        "phone": "911-362-7743",
+        "servicePhone": "800297620"
+    },
+    "birthday": "1936-20-08",
+    "ip": "168.135.234.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Room feel election out last instead indeed. Fish table course bar matter. Yeah operation some son yes current.",
+        "bio": "Cold minute research enough popular. Way beyond rise surface perform.\nSingle region structure assume technology."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
