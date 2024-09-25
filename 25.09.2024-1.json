@@ -1,0 +1,25 @@
+{
+    "name": "Dana Nguyen",
+    "age": 67,
+    "address": {
+        "street": "Linda Summit",
+        "city": "Lake Kayla",
+        "state": "Maine",
+        "zip": "68789"
+    },
+    "contact": {
+        "phone": "2643540745",
+        "servicePhone": "800451364"
+    },
+    "birthday": "1958-18-10",
+    "ip": "219.109.130.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Wonder wrong team behind use team image. Cell hard leg condition law.\nFall course hold each region enjoy.\nStation company heavy manager. Too can key. Scene somebody trial color pay.",
+        "bio": "Born stop knowledge social threat class always. Explain impact national protect become leg.\nAnalysis answer trip memory rich value. See turn perhaps such general."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
