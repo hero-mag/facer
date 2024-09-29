@@ -1,0 +1,25 @@
+{
+    "name": "Katie Allen",
+    "age": 97,
+    "address": {
+        "street": "Dorsey Motorway",
+        "city": "East Leah",
+        "state": "New York",
+        "zip": "18853"
+    },
+    "contact": {
+        "phone": "621.354.6556x2544",
+        "servicePhone": "800072737"
+    },
+    "birthday": "1928-30-08",
+    "ip": "12.121.107.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Already shake reach religious top. Relationship do late.\nImagine food rest account myself discussion. Religious evening east choice fast somebody half bar. From model age office.",
+        "bio": "Dinner coach note dog treat. Modern themselves body book challenge until concern left. Executive memory production together actually. A control capital hold organization."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
