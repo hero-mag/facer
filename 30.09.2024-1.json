@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Arnold",
+    "age": 25,
+    "address": {
+        "street": "Gray Ramp",
+        "city": "South Brian",
+        "state": "North Dakota",
+        "zip": "43203"
+    },
+    "contact": {
+        "phone": "(777)810-1776x8340",
+        "servicePhone": "800231714"
+    },
+    "birthday": "2000-23-02",
+    "ip": "201.59.1.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Option heavy rate property past decade image once. Agreement reveal reduce doctor really. Whose seven meeting one base analysis teach must.",
+        "bio": "Team east I southern charge change. Reduce ready almost draw upon finish manager source. Less father hotel.\nDifferent moment wish drop could player. Authority without shoulder six."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
