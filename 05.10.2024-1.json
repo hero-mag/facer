@@ -1,0 +1,25 @@
+{
+    "name": "Denise Williams",
+    "age": 99,
+    "address": {
+        "street": "Norton Keys",
+        "city": "Danielfurt",
+        "state": "Colorado",
+        "zip": "88037"
+    },
+    "contact": {
+        "phone": "001-253-464-1878x283",
+        "servicePhone": "800874830"
+    },
+    "birthday": "1926-09-01",
+    "ip": "55.247.199.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Ground center radio common your. Despite people benefit second line. Peace none or federal everyone analysis.",
+        "bio": "Care stay newspaper head. Rather and program ask tonight.\nEconomy staff great thought. Because land without few. Candidate role risk alone into music."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
