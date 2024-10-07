@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Jennings",
+    "age": 11,
+    "address": {
+        "street": "Ward Crest",
+        "city": "East Tiffanyton",
+        "state": "New Hampshire",
+        "zip": "76428"
+    },
+    "contact": {
+        "phone": "001-740-256-4017x40165",
+        "servicePhone": "800459055"
+    },
+    "birthday": "2014-21-05",
+    "ip": "110.163.7.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Data minute air all yet need town. Figure five success recent support pull. Best season vote power person.\nWorld simple hit sometimes support. North position near audience.",
+        "bio": "Meeting then media truth summer whether away everybody. War maintain suggest ago. Free wear husband same focus chance.\nClear resource true early. Happy how stay stage water suggest similar world."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
