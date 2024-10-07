@@ -1,0 +1,25 @@
+{
+    "name": "Clayton Williams",
+    "age": 9,
+    "address": {
+        "street": "Jones Neck",
+        "city": "Murphyton",
+        "state": "North Carolina",
+        "zip": "52917"
+    },
+    "contact": {
+        "phone": "(432)798-5406x6626",
+        "servicePhone": "800488028"
+    },
+    "birthday": "2016-03-01",
+    "ip": "85.151.89.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Hear last card reach opportunity find forward. Early hotel contain defense anything civil. Surface product sing do nation consumer.",
+        "bio": "Because song deal build management. Local sure movement inside.\nMore perform father face before before box clear. History enough suffer bank spend ever lawyer. Media glass everybody at capital whole."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
