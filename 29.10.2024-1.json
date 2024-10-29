@@ -1,0 +1,25 @@
+{
+    "name": "Justin Jimenez",
+    "age": 69,
+    "address": {
+        "street": "Joseph Estate",
+        "city": "Lake Douglas",
+        "state": "Indiana",
+        "zip": "96483"
+    },
+    "contact": {
+        "phone": "(772)260-3559x621",
+        "servicePhone": "800876662"
+    },
+    "birthday": "1956-16-08",
+    "ip": "103.132.39.25",
+    "foo": "bar",
+    "profile": {
+        "about": "White possible gun happen try sing no. Party meeting we ever agent look matter.\nLast young customer girl. Perform future themselves happy attack.",
+        "bio": "Meet grow somebody popular two. Notice dark because yes agency truth late address.\nTax lead magazine hour ready of. Team for research of manage. Information rock relationship admit."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
