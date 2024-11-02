@@ -1,0 +1,25 @@
+{
+    "name": "Erica Watkins",
+    "age": 76,
+    "address": {
+        "street": "Kristopher Square",
+        "city": "Lake Loriview",
+        "state": "Oregon",
+        "zip": "50053"
+    },
+    "contact": {
+        "phone": "5036800665",
+        "servicePhone": "800999741"
+    },
+    "birthday": "1949-23-10",
+    "ip": "137.116.168.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Onto west chair anything pretty end heavy ten. Agree little recently another address decade note. Mission year agree popular blue.",
+        "bio": "Husband suddenly which. Low find performance drive glass. Edge fast political site table natural suddenly western."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
