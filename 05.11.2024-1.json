@@ -1,0 +1,25 @@
+{
+    "name": "Curtis Sullivan MD",
+    "age": 7,
+    "address": {
+        "street": "Samuel Unions",
+        "city": "Amytown",
+        "state": "Kentucky",
+        "zip": "90688"
+    },
+    "contact": {
+        "phone": "(365)440-2676x969",
+        "servicePhone": "800010767"
+    },
+    "birthday": "2018-02-06",
+    "ip": "58.213.113.163",
+    "foo": "bar",
+    "profile": {
+        "about": "North customer that if really meet. Someone note among writer late.\nSummer end relate fund authority leave heart. Newspaper Republican image bank their. Something war let store.",
+        "bio": "Sign first time or wish major save.\nCapital certainly national. Marriage arm computer great both game thousand.\nSomething religious against life east happy."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
