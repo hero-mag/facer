@@ -1,0 +1,25 @@
+{
+    "name": "Haley Williams",
+    "age": 36,
+    "address": {
+        "street": "Mackenzie Stravenue",
+        "city": "Darrylfort",
+        "state": "Alabama",
+        "zip": "32720"
+    },
+    "contact": {
+        "phone": "001-598-797-1324",
+        "servicePhone": "800775571"
+    },
+    "birthday": "1989-28-01",
+    "ip": "88.245.209.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Finish marriage charge listen ok fire. Result common always writer after peace just prove. Identify magazine campaign carry cup wrong at wide. Today court out.",
+        "bio": "Perhaps budget economic inside very. Perform cell easy later should conference whom."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
