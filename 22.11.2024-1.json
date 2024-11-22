@@ -1,0 +1,25 @@
+{
+    "name": "David White",
+    "age": 65,
+    "address": {
+        "street": "Morgan Falls",
+        "city": "Reneeburgh",
+        "state": "Nebraska",
+        "zip": "10355"
+    },
+    "contact": {
+        "phone": "(360)282-3186x0608",
+        "servicePhone": "800055538"
+    },
+    "birthday": "1960-20-07",
+    "ip": "15.185.167.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Able cover hospital suddenly happen. Better show focus safe. Region him which success idea six.\nBill base box travel she check effort. Huge school well.",
+        "bio": "Back everybody final ahead big husband. Social support carry her major measure draw. Health could relate five fear attorney.\nTrial conference each lot. Marriage sing few institution."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
