@@ -1,0 +1,25 @@
+{
+    "name": "Emily Carr",
+    "age": 47,
+    "address": {
+        "street": "Ronald Fall",
+        "city": "East Jessica",
+        "state": "Nevada",
+        "zip": "09977"
+    },
+    "contact": {
+        "phone": "389.501.4303x757",
+        "servicePhone": "800879464"
+    },
+    "birthday": "1978-16-05",
+    "ip": "57.231.60.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Key there sing us. Central beyond wife government degree young three. International tonight prove particular start that.",
+        "bio": "Son without front focus. Need lawyer just your to financial.\nOffer realize law. Same relationship officer later human evening improve section. Effort might history view see ball."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
