@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Summers",
+    "age": 3,
+    "address": {
+        "street": "Mario View",
+        "city": "West Amandaview",
+        "state": "Colorado",
+        "zip": "26299"
+    },
+    "contact": {
+        "phone": "(868)991-6088x613",
+        "servicePhone": "800854318"
+    },
+    "birthday": "2022-14-03",
+    "ip": "63.48.118.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Begin building situation nation me quickly. Want with carry enter. Almost south perhaps interest just main wall friend.\nClose animal any audience Congress. Mother near read.",
+        "bio": "Fund official run artist develop. Ask heart doctor. Collection red candidate when each anything bad.\nMillion something hear coach green. Song garden top grow very."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
