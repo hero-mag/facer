@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Young",
+    "age": 57,
+    "address": {
+        "street": "Madison Summit",
+        "city": "Burnsfort",
+        "state": "Colorado",
+        "zip": "12486"
+    },
+    "contact": {
+        "phone": "685.800.9227x248",
+        "servicePhone": "800479845"
+    },
+    "birthday": "1968-15-08",
+    "ip": "136.173.172.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Situation avoid decade save drop reveal. Nature floor another all think.\nOwn fish development mind control. Want so protect though chance.",
+        "bio": "Over key recognize manage their ten. Painting policy fast meeting alone table eye. Week it painting them."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
