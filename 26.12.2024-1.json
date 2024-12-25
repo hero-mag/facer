@@ -1,0 +1,25 @@
+{
+    "name": "Cindy Hodges",
+    "age": 71,
+    "address": {
+        "street": "Samantha Parkway",
+        "city": "Colemanville",
+        "state": "Kansas",
+        "zip": "74857"
+    },
+    "contact": {
+        "phone": "769-811-5033x70303",
+        "servicePhone": "800741604"
+    },
+    "birthday": "1954-09-11",
+    "ip": "178.145.43.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Thing material month color blue year everyone PM.\nImpact room simple affect. Lead down rise kid usually little sort.",
+        "bio": "Chance model politics western rich wall still. Control very remember involve claim. She outside north research modern."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
