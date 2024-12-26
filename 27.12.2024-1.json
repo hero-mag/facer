@@ -1,0 +1,25 @@
+{
+    "name": "Leslie Porter",
+    "age": 62,
+    "address": {
+        "street": "Emily Pass",
+        "city": "Stevenbury",
+        "state": "Indiana",
+        "zip": "56521"
+    },
+    "contact": {
+        "phone": "406-896-1139x221",
+        "servicePhone": "800238571"
+    },
+    "birthday": "1963-24-02",
+    "ip": "24.55.251.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Security decide outside cause door. Character office other to their lose truth.",
+        "bio": "See have light exactly product. Political sister spring himself. Spend stock maybe this nothing even standard through.\nSign real fly life cold."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
