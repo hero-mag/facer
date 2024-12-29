@@ -1,0 +1,25 @@
+{
+    "name": "Karen Sloan",
+    "age": 40,
+    "address": {
+        "street": "Samuel Valley",
+        "city": "South Josephview",
+        "state": "Nebraska",
+        "zip": "06952"
+    },
+    "contact": {
+        "phone": "+1-250-512-1521x98231",
+        "servicePhone": "800538633"
+    },
+    "birthday": "1985-13-08",
+    "ip": "215.195.238.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Dream why technology system. Enter news return a. Behavior write with network hour see answer.",
+        "bio": "Vote read wonder off choose baby strategy. Large whatever work ready.\nCare store space law. Human military chair result relate card raise."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
