@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Logan MD",
+    "age": 52,
+    "address": {
+        "street": "Thomas Burg",
+        "city": "Davidville",
+        "state": "Illinois",
+        "zip": "67264"
+    },
+    "contact": {
+        "phone": "452-398-7907x694",
+        "servicePhone": "800339871"
+    },
+    "birthday": "1973-02-03",
+    "ip": "135.64.92.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Section front process describe painting all four. Leader fear number power. Traditional they quality meeting me.\nParty upon television cause. Yard affect able bank conference focus return.",
+        "bio": "Participant share fill fight remember. Heart recent present piece their follow. Something walk Congress sound factor American late. Another interest be push build."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
