@@ -1,0 +1,25 @@
+{
+    "name": "Catherine Whitaker",
+    "age": 62,
+    "address": {
+        "street": "Scott Lock",
+        "city": "Bowerschester",
+        "state": "Georgia",
+        "zip": "12704"
+    },
+    "contact": {
+        "phone": "001-703-348-0049x59564",
+        "servicePhone": "800935548"
+    },
+    "birthday": "1963-09-05",
+    "ip": "47.233.212.24",
+    "foo": "bar",
+    "profile": {
+        "about": "College affect say stuff everybody challenge although everybody. Contain level season hospital. Image to hear ask century.",
+        "bio": "Herself majority require join billion. Up citizen throw mouth owner opportunity.\nNear it there less cold civil. Store data service man explain."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
