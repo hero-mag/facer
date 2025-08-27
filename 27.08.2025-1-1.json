@@ -1,0 +1,25 @@
+{
+    "name": "Michael Snyder",
+    "age": 102,
+    "address": {
+        "street": "Glover Trail",
+        "city": "Andrewbury",
+        "state": "Louisiana",
+        "zip": "61358"
+    },
+    "contact": {
+        "phone": "+1-697-481-1447x0522",
+        "servicePhone": "800263193"
+    },
+    "birthday": "1923-17-04",
+    "ip": "70.195.126.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Without board capital despite. Type certainly note. Black reveal area us machine loss do. Short some she although close although wrong.",
+        "bio": "White nice lose spring. Building drive food head. Firm street item source yard several actually."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
