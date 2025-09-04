@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Garza",
+    "age": 63,
+    "address": {
+        "street": "Roberts Cliffs",
+        "city": "Nicolemouth",
+        "state": "Connecticut",
+        "zip": "88908"
+    },
+    "contact": {
+        "phone": "+1-428-373-6932x85986",
+        "servicePhone": "800179315"
+    },
+    "birthday": "1962-08-07",
+    "ip": "174.114.34.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Customer explain add heart agreement. It peace clearly great bank industry floor. Suggest during central dog than job quite. Newspaper prevent health close respond.",
+        "bio": "Moment particular other young under hot material career. Still knowledge could discover perform per prepare."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
