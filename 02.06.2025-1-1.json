@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Campos",
+    "age": 22,
+    "address": {
+        "street": "Collins Mountain",
+        "city": "New Ann",
+        "state": "Vermont",
+        "zip": "14747"
+    },
+    "contact": {
+        "phone": "577-298-7879x25248",
+        "servicePhone": "800221606"
+    },
+    "birthday": "2003-02-04",
+    "ip": "204.25.140.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Wrong apply onto collection body. Write social but return outside politics yes. Science defense image. Race attack recent like he door gun.",
+        "bio": "House southern pressure family agency imagine. Loss investment give according sometimes decide. Really recent assume any tree lose PM.\nDiscussion big parent. Plan brother change name."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
