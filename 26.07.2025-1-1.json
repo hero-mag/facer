@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Webster",
+    "age": 113,
+    "address": {
+        "street": "Reed Bypass",
+        "city": "Leeberg",
+        "state": "Indiana",
+        "zip": "81322"
+    },
+    "contact": {
+        "phone": "(319)918-6161x14152",
+        "servicePhone": "800531923"
+    },
+    "birthday": "1912-17-01",
+    "ip": "208.85.199.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Long by word control glass area. Stay pass study many teacher every buy.",
+        "bio": "Fear bed section everything live through herself.\nMouth machine focus stand trouble seem fact large. Choice billion onto call. School event treat close soldier site cell."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
