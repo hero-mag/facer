@@ -1,0 +1,25 @@
+{
+    "name": "Sabrina Williams",
+    "age": 16,
+    "address": {
+        "street": "Deborah Via",
+        "city": "Johnstonhaven",
+        "state": "West Virginia",
+        "zip": "94653"
+    },
+    "contact": {
+        "phone": "+1-392-901-4319x001",
+        "servicePhone": "800354521"
+    },
+    "birthday": "2009-30-12",
+    "ip": "102.17.181.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Act six above finally find successful apply help. Will practice affect many.",
+        "bio": "Image great upon people so fight. Once half into the we wide color system. Remain worry throughout political effort. Political more under hot."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
