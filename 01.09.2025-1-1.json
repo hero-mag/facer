@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Gonzalez",
+    "age": 8,
+    "address": {
+        "street": "Clark Cliffs",
+        "city": "North Todd",
+        "state": "Vermont",
+        "zip": "55681"
+    },
+    "contact": {
+        "phone": "(232)716-6471x2762",
+        "servicePhone": "800250225"
+    },
+    "birthday": "2017-17-09",
+    "ip": "8.169.141.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Push season human month. Follow behind change. Phone try paper lot safe child.\nCard which spring democratic southern. Watch loss Mrs race.\nOfficer all enough lay vote.",
+        "bio": "Reveal national present every through. Side through artist prevent attorney. Sure while skill."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
