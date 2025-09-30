@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Ramos",
+    "age": 70,
+    "address": {
+        "street": "Brian Well",
+        "city": "Briggshaven",
+        "state": "New Hampshire",
+        "zip": "69234"
+    },
+    "contact": {
+        "phone": "399.324.0339",
+        "servicePhone": "800398363"
+    },
+    "birthday": "1955-10-08",
+    "ip": "122.235.28.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Himself government military determine strategy phone student. Green brother set game treatment something growth sit. Drug move enough population indicate us picture.",
+        "bio": "Provide consider and along hope last a law. Job physical yet both although foreign reveal say. High produce improve along building property.\nPopulation available inside two. Memory base before."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
