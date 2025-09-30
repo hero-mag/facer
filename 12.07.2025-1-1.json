@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Carlson",
+    "age": 6,
+    "address": {
+        "street": "Megan Square",
+        "city": "North Michaelbury",
+        "state": "Nebraska",
+        "zip": "71439"
+    },
+    "contact": {
+        "phone": "(771)608-1028x921",
+        "servicePhone": "800045303"
+    },
+    "birthday": "2019-29-04",
+    "ip": "131.186.204.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Style nice staff food now appear.\nListen agency Congress person north section growth thank. Meet these well tell expect. Often tree level big.",
+        "bio": "Former cover raise none north though.\nWhy even be east. Occur event expect material everyone."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}

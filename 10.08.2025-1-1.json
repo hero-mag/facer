@@ -1,0 +1,25 @@
+{
+    "name": "Francis Page",
+    "age": 88,
+    "address": {
+        "street": "Carl Mountain",
+        "city": "Jennifermouth",
+        "state": "Minnesota",
+        "zip": "12763"
+    },
+    "contact": {
+        "phone": "+1-612-667-8780x373",
+        "servicePhone": "800769582"
+    },
+    "birthday": "1937-16-08",
+    "ip": "129.58.202.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Clearly possible find occur force although. Charge message seem mean focus.\nEven protect dream it test its someone. Win still scene move perform notice total.",
+        "bio": "Rule north similar pay professor success focus. Special small officer next wife appear. Program certainly civil night turn."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
