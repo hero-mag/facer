@@ -1,0 +1,25 @@
+{
+    "name": "Kathy Cooper",
+    "age": 112,
+    "address": {
+        "street": "Ramirez Avenue",
+        "city": "Kendrabury",
+        "state": "Florida",
+        "zip": "35342"
+    },
+    "contact": {
+        "phone": "001-898-667-6985",
+        "servicePhone": "800809682"
+    },
+    "birthday": "1913-24-10",
+    "ip": "108.116.127.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Activity before quite think turn. Live second local land property arrive recently.\nPrevent attorney last morning recognize. Human read future pull.",
+        "bio": "Hospital our success energy mother another through. Couple time maybe. Soldier can despite know.\nSingle tax street hope after note.\nChance through American. Chair prepare heavy attorney."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
