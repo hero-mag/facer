@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Todd",
+    "age": 69,
+    "address": {
+        "street": "Barbara Turnpike",
+        "city": "Scottport",
+        "state": "Washington",
+        "zip": "36234"
+    },
+    "contact": {
+        "phone": "471-487-4438",
+        "servicePhone": "800281622"
+    },
+    "birthday": "1956-11-05",
+    "ip": "154.213.228.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Sign traditional result answer worry listen. Difference west sing system.\nAccording likely organization when firm for thus. Drop send sometimes usually leave of although thousand.",
+        "bio": "Several interest writer. Property brother test knowledge none physical price. Remain paper return six house.\nCause health already. Individual customer cover analysis side meeting once state."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}

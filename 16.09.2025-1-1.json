@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Pena",
+    "age": 68,
+    "address": {
+        "street": "Rachel Springs",
+        "city": "Ballardmouth",
+        "state": "South Dakota",
+        "zip": "66500"
+    },
+    "contact": {
+        "phone": "206.368.4343x621",
+        "servicePhone": "800902895"
+    },
+    "birthday": "1957-23-06",
+    "ip": "94.174.56.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Care partner standard through town seven statement. Property long law trade past. Six family let worry although.\nThere society total mind season. Answer as among situation.",
+        "bio": "According drop position successful world these recent. Drug sing military exactly everything suddenly road.\nRemember have now size despite thing hot action. Moment imagine case day."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}

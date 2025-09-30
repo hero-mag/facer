@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Cochran",
+    "age": 105,
+    "address": {
+        "street": "Keller Run",
+        "city": "East Timothy",
+        "state": "North Dakota",
+        "zip": "84351"
+    },
+    "contact": {
+        "phone": "(888)637-8326",
+        "servicePhone": "800525061"
+    },
+    "birthday": "1920-02-10",
+    "ip": "81.98.117.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Draw stay rest learn at small most his. Mother how final political land already. Future lead these pressure sign class into. Language account quality wife.",
+        "bio": "Force someone just. Top form exactly. Then direction might tell ten weight to.\nField skill decision model amount. Price paper there camera forward alone word."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}

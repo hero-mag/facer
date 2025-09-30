@@ -1,0 +1,25 @@
+{
+    "name": "Mike Roberts",
+    "age": 112,
+    "address": {
+        "street": "Emily Walk",
+        "city": "Dennisshire",
+        "state": "Mississippi",
+        "zip": "98725"
+    },
+    "contact": {
+        "phone": "938-784-0073x65017",
+        "servicePhone": "800486607"
+    },
+    "birthday": "1913-24-04",
+    "ip": "111.100.203.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Right loss public us.\nProfessional issue and view public. For down foreign often.",
+        "bio": "Offer speak care shake. Career organization as bad money consumer. Product environmental friend. Popular drop owner call reason."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}

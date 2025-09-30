@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Brown",
+    "age": 70,
+    "address": {
+        "street": "Logan Bridge",
+        "city": "Adkinsbury",
+        "state": "Michigan",
+        "zip": "81090"
+    },
+    "contact": {
+        "phone": "(763)231-1230x7805",
+        "servicePhone": "800420295"
+    },
+    "birthday": "1955-01-09",
+    "ip": "49.155.208.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Detail within condition ever response picture right. Play particularly high bad play design front.\nScience model peace hotel during perform. Near that my whose effort mission such step.",
+        "bio": "Traditional nor leader own early office. Must face expect offer institution product. Carry position government machine whatever such."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
