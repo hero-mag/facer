@@ -1,0 +1,25 @@
+{
+    "name": "Bobby Roberts",
+    "age": 72,
+    "address": {
+        "street": "Dorsey Coves",
+        "city": "Port Jill",
+        "state": "Montana",
+        "zip": "97007"
+    },
+    "contact": {
+        "phone": "991.348.8716",
+        "servicePhone": "800046907"
+    },
+    "birthday": "1953-19-09",
+    "ip": "137.172.95.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Know five recognize social experience like who.\nProve energy while admit animal off way. Make hard relate able. Participant which soldier recently letter respond throw language.",
+        "bio": "Including Mrs total ground. Happen often hand catch perform. Management give expect group conference. Rise whether throughout under physical.\nBoard including although those form talk citizen wife."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
