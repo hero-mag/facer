@@ -1,0 +1,25 @@
+{
+    "name": "Evan Thornton",
+    "age": 45,
+    "address": {
+        "street": "Schmidt Cliff",
+        "city": "Lake Terry",
+        "state": "West Virginia",
+        "zip": "18631"
+    },
+    "contact": {
+        "phone": "(687)979-9784x264",
+        "servicePhone": "800291645"
+    },
+    "birthday": "1980-22-06",
+    "ip": "91.96.125.65",
+    "foo": "bar",
+    "profile": {
+        "about": "So money dark after their. Simply protect six specific only agency. Nice more when matter man front system serve.\nMe research heart scientist character. Language next open recognize military later.",
+        "bio": "Amount mention myself him lot. Debate move represent leader talk citizen oil star. Agreement expert natural if nation.\nEdge north word second room. Lot join page interest no."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
