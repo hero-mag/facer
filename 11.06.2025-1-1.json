@@ -1,0 +1,25 @@
+{
+    "name": "Rebekah Lopez",
+    "age": 105,
+    "address": {
+        "street": "Farmer Shoals",
+        "city": "North Colton",
+        "state": "Massachusetts",
+        "zip": "24986"
+    },
+    "contact": {
+        "phone": "685.959.6784",
+        "servicePhone": "800880928"
+    },
+    "birthday": "1920-13-05",
+    "ip": "61.205.40.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Direction quality enough tree series. Increase central professor spring exist power home.",
+        "bio": "Husband memory old. Draw executive second explain such big article become. Daughter share future high note."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}

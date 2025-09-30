@@ -1,0 +1,25 @@
+{
+    "name": "Russell Thompson",
+    "age": 64,
+    "address": {
+        "street": "Kelly Rapids",
+        "city": "Laurenbury",
+        "state": "Mississippi",
+        "zip": "31935"
+    },
+    "contact": {
+        "phone": "001-532-792-9426",
+        "servicePhone": "800788758"
+    },
+    "birthday": "1961-12-02",
+    "ip": "199.12.159.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Defense purpose benefit exist dinner new hospital. Agent newspaper concern station choose and. Everyone peace oil seek brother government pattern best.",
+        "bio": "White four pressure member. Against method dark style option rock collection."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}

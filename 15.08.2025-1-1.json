@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Bailey",
+    "age": 76,
+    "address": {
+        "street": "Krause Mills",
+        "city": "East Gwendolynfort",
+        "state": "Ohio",
+        "zip": "04356"
+    },
+    "contact": {
+        "phone": "+1-528-876-1764",
+        "servicePhone": "800022357"
+    },
+    "birthday": "1949-27-02",
+    "ip": "83.236.223.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Rate movement pay rest rate short. Serve reduce necessary difference student very people. Thank city maybe Republican important employee.\nSeason measure weight similar style.",
+        "bio": "Drop talk maybe serious. Many mouth energy read three soon standard.\nHistory other time price care discuss card where.\nHair before ten. Direction rich hair human window popular."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
