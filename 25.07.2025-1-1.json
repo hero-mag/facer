@@ -1,0 +1,25 @@
+{
+    "name": "Dylan Olsen",
+    "age": 107,
+    "address": {
+        "street": "Barry Loop",
+        "city": "South Tracyberg",
+        "state": "Vermont",
+        "zip": "83484"
+    },
+    "contact": {
+        "phone": "721-630-7492",
+        "servicePhone": "800722945"
+    },
+    "birthday": "1918-06-04",
+    "ip": "149.50.222.152",
+    "foo": "bar",
+    "profile": {
+        "about": "True perhaps crime assume either. Build industry mind.\nEnergy born city address. Nothing put interview push.\nThe young away arrive coach enjoy. Test by hot anyone people big ready seat.",
+        "bio": "Blue wife back both. Station quite run peace myself mouth.\nAlong make president both. Of such moment role difficult.\nWhat general challenge. Side son water expert civil."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
