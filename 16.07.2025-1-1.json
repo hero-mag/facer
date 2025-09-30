@@ -1,0 +1,25 @@
+{
+    "name": "Miranda Moore",
+    "age": 39,
+    "address": {
+        "street": "Turner Course",
+        "city": "Zoemouth",
+        "state": "Washington",
+        "zip": "11319"
+    },
+    "contact": {
+        "phone": "684.303.3884x044",
+        "servicePhone": "800007529"
+    },
+    "birthday": "1986-24-04",
+    "ip": "182.18.44.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Operation floor bank meet nothing. Property fight whatever another. Finish laugh series president situation happen.",
+        "bio": "Ten others lawyer rise pressure serve without. Hour run season conference product week. Give treatment nice describe.\nComputer project job note mouth surface. Will wrong trip situation."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}

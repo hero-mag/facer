@@ -1,0 +1,25 @@
+{
+    "name": "Natalie Bradley",
+    "age": 81,
+    "address": {
+        "street": "Collins Causeway",
+        "city": "West Beckyfort",
+        "state": "Michigan",
+        "zip": "31185"
+    },
+    "contact": {
+        "phone": "001-538-873-6738x294",
+        "servicePhone": "800706182"
+    },
+    "birthday": "1944-15-09",
+    "ip": "190.126.147.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Practice edge song hot east small old. Line capital market receive usually so fear.",
+        "bio": "Husband protect kitchen enter discussion represent. Real available only parent improve. Chance treatment water court return issue fine.\nRepresent what own. Itself history talk best."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
