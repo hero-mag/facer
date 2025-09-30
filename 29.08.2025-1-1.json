@@ -1,0 +1,25 @@
+{
+    "name": "Robert Adams",
+    "age": 107,
+    "address": {
+        "street": "Hall Tunnel",
+        "city": "New Lorifort",
+        "state": "Maryland",
+        "zip": "92439"
+    },
+    "contact": {
+        "phone": "380.339.5487",
+        "servicePhone": "800487817"
+    },
+    "birthday": "1918-10-02",
+    "ip": "126.141.64.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Action door if cold enter long. Six relate whose beautiful body career.",
+        "bio": "Local fight management remain remain. Example word find religious test.\nBeyond camera up company writer fall single administration. Center already discover century. East still sure special remember."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "George Patterson",
+    "age": 15,
+    "address": {
+        "street": "Barker Terrace",
+        "city": "West Emily",
+        "state": "Michigan",
+        "zip": "78662"
+    },
+    "contact": {
+        "phone": "(212)429-7851x33746",
+        "servicePhone": "800341477"
+    },
+    "birthday": "2010-09-01",
+    "ip": "166.4.9.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Hit commercial walk writer be piece attorney.\nIndicate house near. Husband class from along again discover reflect represent. Thus successful think figure. Feeling today reduce argue current.",
+        "bio": "Manage action job price response. Recent former large would field option girl.\nParent church modern I home choose economic tax. Describe arrive agency attorney action figure civil."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
