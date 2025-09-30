@@ -1,0 +1,25 @@
+{
+    "name": "April Mcdowell",
+    "age": 102,
+    "address": {
+        "street": "Ryan Springs",
+        "city": "Abigailview",
+        "state": "Texas",
+        "zip": "88353"
+    },
+    "contact": {
+        "phone": "847.400.2281",
+        "servicePhone": "800201404"
+    },
+    "birthday": "1923-22-11",
+    "ip": "182.85.72.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Unit everyone make third. Although a dark girl water hear until. Sea maybe that which.\nPrevent test baby herself. Citizen couple avoid.\nWeek blue happen admit line. Though particularly peace.",
+        "bio": "Everybody difficult growth economy recognize lawyer. Career within argue collection respond.\nOperation particularly war Mr every. Care community modern cost central message."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
