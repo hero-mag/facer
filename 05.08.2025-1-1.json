@@ -1,0 +1,25 @@
+{
+    "name": "David Reyes",
+    "age": 81,
+    "address": {
+        "street": "Bailey Ports",
+        "city": "South Kristin",
+        "state": "South Carolina",
+        "zip": "30662"
+    },
+    "contact": {
+        "phone": "+1-803-861-4681",
+        "servicePhone": "800681895"
+    },
+    "birthday": "1944-10-07",
+    "ip": "202.98.133.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Voice establish determine candidate official hope leader. Follow total under. Woman rate interview conference. Reach church order model commercial others.",
+        "bio": "Pressure a worker way. Possible great late politics.\nOffer this me budget wear free live. Method ask last skill leg. If moment including else common recognize while suggest."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
