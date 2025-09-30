@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Vazquez",
+    "age": 80,
+    "address": {
+        "street": "Christopher Mills",
+        "city": "West Kimberly",
+        "state": "Oregon",
+        "zip": "52167"
+    },
+    "contact": {
+        "phone": "294-897-7080x6040",
+        "servicePhone": "800364523"
+    },
+    "birthday": "1945-17-02",
+    "ip": "128.54.108.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Baby different executive five international nice window. Southern trade officer. Black wait stay easy this black marriage. Military detail how.",
+        "bio": "Usually worker story. Pattern financial early station live education total design.\nWest figure authority tax miss travel life. Type bit condition game leave cover scientist information."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
